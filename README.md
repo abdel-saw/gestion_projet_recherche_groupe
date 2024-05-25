@@ -35,7 +35,7 @@ Utilisation de l'Application
 		Exécutez la classe P4P pour démarrer l'application.
 	Connexion :
 
-		Utilisez le formulaire de connexion pour accéder à la plateforme avec un compte utilisateur, administrateur ou invité (guest).
+		Utilisez le formulaire de connexion pour accéder à la plateforme avec un compte utilisateur, administrateur ou invité (guest).Pour se connecter en tant qu'invité username = guest et password = guest
 	Fonctionnalités Principales :
 
 	Inscription de nouveaux utilisateurs.
